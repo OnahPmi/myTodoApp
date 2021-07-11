@@ -1,3 +1,3 @@
 # myTodoApp
 My Todo Application
-https://onahpmi.github.io/myTodoApp/
+https://github.com/OnahPmi/myTodoApp.git
